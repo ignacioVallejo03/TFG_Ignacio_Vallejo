@@ -4,7 +4,7 @@
 
 En este repositorio se incluye la arquitectura VDSR modificada de Kim et al., del artículo VDSR Accurate Image Super-Resolution Using Very Deep Convolutional Networks junto con los modelos entrenados durante el proyecto. 
 
-## Estructura archivos
+## Estructura de archivos
 
 Archivo VDSR-PyTorch-master: contiene el codigo de la arquitectura referente al objetivo 1  
 Archivo VDSR-PNOA-GEOSAT2: contiene el codigo de la arquitectura referente al objetivo 2  
