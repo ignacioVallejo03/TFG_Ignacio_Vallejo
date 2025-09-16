@@ -2,7 +2,7 @@
 # Generación de modelos de superresolución de imágenes satelitales y ortoimágenes a partir de la arquitectura VDSR
 #### Resultados del trabajo de fin de grado realizado por Ignacio Vallejo , alumno de la Universidad Politecnica de Madrid.
 
-En este repositorio se incluye la arquitectura VDSR modificada de Kim et al., del artículo VDSR Accurate Image Super-Resolution Using Very Deep Convolutional Networks junto con los modelos entrenados durante el proyecto. 
+En este repositorio se incluye la memoria del TFG. A suvez se incluye la arquitectura VDSR modificada de Kim et al., del artículo VDSR Accurate Image Super-Resolution Using Very Deep Convolutional Networks junto con los modelos entrenados durante el proyecto. 
 
 ## Estructura de archivos
 
